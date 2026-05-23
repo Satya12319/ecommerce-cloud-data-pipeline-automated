@@ -13,4 +13,4 @@ An end-to-end cloud data engineering pipeline that automates data generation, cl
 2. Install dependencies: `pip install snowflake-connector-python`
 3. Execute the script: `python load_data.py`
 ## 📊 Live Dashboard
-👉 [Click here to view the Live Tableau Dashboard](Aapka_Tableau_Public_Link_Yahan_Paste_Karein)
+👉 [Click here to view the Live Tableau Dashboard](https://public.tableau.com/app/profile/satya.prakash.singh5812/viz/E-CommerceCloudDataAnalyticsPipelineAutomated/Sheet1?publish=yes)
